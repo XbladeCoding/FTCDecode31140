@@ -3,7 +3,7 @@
 This repo has our robot code for **[DECODE™](https://ftc-resources.firstinspires.org/ftc/game)**, the 2025-26 [FIRST Tech Challenge](https://www.firstinspires.org/robotics/ftc) game. If you've never heard of FTC: two alliances (red vs. blue) play 2.5-minute matches on a 12 x 12 ft field. For the first 30 seconds the robot drives itself (autonomous), and for the next 2 minutes we drive it with gamepads. In DECODE, robots pick up balls called *artifacts* and launch them into a goal.
 
 <p align="center">
-  <img src="images/robot.jpg" alt="Team 31140's DECODE robot" width="450">
+  <img src="images/Robot.png" alt="Team 31140's DECODE robot" width="450">
 </p>
 
 ## What the robot does
